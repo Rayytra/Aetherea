@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+serde_yaml = "0.9.34"
+slint = "1.9.1"
+slint-interpreter = "1.9.1"
+
+[package.metadata.bundle]
+name = "Aetheria"
+version = "0.1.0"
+icon = "path/to/your/icon.png"  # Optional, just a PNG icon
