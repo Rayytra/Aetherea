@@ -1,5 +1,5 @@
 [package]
-name = "aetheria"
+name = "aetherea"
 version = "0.1.0"
 edition = "2021"
 
@@ -12,6 +12,6 @@ slint-interpreter = "1.9.1"
 slint-build = "1.9.1"
 
 [package.metadata.bundle]
-name = "Aetheria"
+name = "Aetherea"
 version = "0.1.0"
 icon = "path/to/your/icon.png"  # Optional, just a PNG icon
