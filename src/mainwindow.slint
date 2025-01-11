@@ -1,8 +1,40 @@
+import { Button, HorizontalBox } from "std-widgets.slint";
 export component MainWindow inherits Window {
-    width: 1280px;
-    height: 670px;
     background: darkslategray;
     title: project_title;
 
     in property <string> project_title: "Aetherea - No Project";
+
+    Rectangle {
+        width: 40%;
+        height: parent.height * 0.03;
+        background: #333;
+        y: 0;
+        x: 0;
+
+        HorizontalLayout {
+            width: 100%;
+            height: 100%;
+
+            Button {
+                text: "File";
+            }
+
+            Button {
+                text: "Edit";
+            }
+
+            Button {
+                text: "Settings";
+            }
+
+            Button {
+                text: "Effects";
+            }
+
+            Button {
+                text: "Animation";
+            }
+        }
+    }   
 }

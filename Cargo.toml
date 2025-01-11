@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rdev = "0.5.3"
 serde_yaml = "0.9.34"
 slint = "1.9.1"
 slint-interpreter = "1.9.1"
