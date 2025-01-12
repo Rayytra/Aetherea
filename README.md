@@ -2,7 +2,8 @@
 ### Open-source 2D vector and raster animation/composition software
 
 Still heavily a work in progress TwT </br>
-Ur welcome to contribute :3
+Ur welcome to contribute :3 </br></br>
+Feature requests submissions are in [Discussions.](https://github.com/Rayytra/Aetherea/discussions)
 
 ## FAQ
 ### > **Project Lead**
