@@ -1,6 +1,8 @@
 # Aetherea
 ### Open-source 2D vector and raster animation/composition software
-This project is currently led by **Rayy**
+
+### **Project Lead**
+This project is currently led and maintained by **Rayy**
 
 Still a work in progress TwT </br>
 Ur welcome to contribute :3
