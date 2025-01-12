@@ -19,3 +19,12 @@ Performance.
 ### > **Backend?**
 Currently wgpu for 2D. Written manually.</br>
 Looking forward to 3D sometime in the future.
+
+## License
+
+This project is dual-licensed under the **GPL 3.0** and a **Commercial License**.
+
+- You can use, modify, and distribute the software under the **GPL 3.0** terms (see [LICENSE-GPL](LICENSE-GPL)).
+- For proprietary, closed-source usage, you can obtain a **Commercial License** by contacting the author.
+
+See the [LICENSE-COMMERCIAL](LICENSE-COMMERCIAL) file for more details.
