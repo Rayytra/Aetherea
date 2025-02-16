@@ -4,19 +4,13 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-env_logger = "0.11.6"
-futures = "0.3.31"
-log = "0.4.22"
-nalgebra = "0.33.2"
+bytemuck = "1.21.0"
+eframe = "0.31.0"
+egui = "0.31.0"
 rdev = "0.5.3"
 serde_yaml = "0.9.34"
-slint = "1.9.1"
-slint-interpreter = "1.9.1"
-wgpu = "23.0.1"
-winit = "0.30.8"
-
-[build-dependencies]
-slint-build = "1.9.1"
+wgpu = "24.0.1"
+winit = { version = "0.29", features = ["rwh_05"] }
 
 [package.metadata.bundle]
 name = "Aetherea"
