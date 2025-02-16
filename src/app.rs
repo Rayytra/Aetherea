@@ -17,9 +17,9 @@ impl eframe::App for AethereaApp {
                             println!("Opened File.")
                         }
 
-                        if ui.button("Open Recent").clicked() {
-                            println!("Opening Recent File.")
-                        }
+                        ui.menu_button("Open Recent", |ui| {
+                            ui.button("randomfile.aeth")
+                        });
 
                         if ui.button("Save").clicked() {
                             println!("Saved.")
