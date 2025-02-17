@@ -5,6 +5,22 @@ Still heavily a work in progress TwT </br>
 Ur welcome to contribute :3 </br></br>
 Feature requests submissions are in [Discussions.](https://github.com/Rayytra/Aetherea/discussions)
 
+## Phases
+- [ ] Animation Software
+- [ ] Composition Software
+- [ ] Fully Developed
+</br>
+NB: Each phase is completed if basic production is possible
+
+## To Do
+- [x] Initial Setup
+- [ ] Basic Functional UI
+- [ ] UI <-> WGPU Integration
+- [ ] Basic Functionality
+- [ ] Layers
+- [ ] Effects & Effect Rack
+- [ ] Documentation
+
 ## FAQ
 ### > **Project Lead**
 This project is currently led and maintained by **Rayy** </br>
